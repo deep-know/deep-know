@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey! I'm Cristian and this is my Github⚡
 ![Cristian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deep-know&&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deep-know)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **deep-know/deep-know** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
