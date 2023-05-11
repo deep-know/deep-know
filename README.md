@@ -25,7 +25,7 @@
 </p>
 <h2> Stats </h2>
 
-![Cristian's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deep-know&&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deep-know&&show_icons=true&theme=radical)
 
 <!--
 **deep-know/deep-know** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
